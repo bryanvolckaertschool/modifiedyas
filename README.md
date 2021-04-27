@@ -193,6 +193,9 @@ The key dependency for _youtube-audio-server_ is
 which depends on `ffmpeg`, which must be installed at system level, it's not
 a node dependency!
 
+
+https://github.com/GyanD/codexffmpeg/releases
+
 ### Install ffmpeg on OSX
 
 `brew install ffmpeg`
