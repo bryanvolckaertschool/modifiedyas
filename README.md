@@ -217,5 +217,3 @@ You can also use `npm run test-focus` to concentrate on one linting
 issue at a time with the help of [standard-focus](https://www.npmjs.com/package/standard-focus).
 
 Enjoy!
-# modifiedyas
-# modifiedyas
