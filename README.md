@@ -1,5 +1,6 @@
 ## Original repo
 https://github.com/codealchemist/youtube-audio-server
+You can follow the installation guide here.
 
 ## Disclaimer
 We are not the original creators of this repo and dont intent to sell the code. We just needed a selfcontrolled Repo for our project.
