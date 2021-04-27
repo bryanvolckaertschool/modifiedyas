@@ -1,7 +1,7 @@
-##Original repo
+## Original repo
 https://github.com/codealchemist/youtube-audio-server
 
-##Disclaimer
+## Disclaimer
 We are not the original creators of this repo and dont intent to sell the code. We just needed a selfcontrolled Repo for our project.
 
 # Fixes to common errors
