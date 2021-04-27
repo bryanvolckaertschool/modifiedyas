@@ -16,7 +16,7 @@ If you get this error follow the following steps:
 Link to ytdl-core: https://www.npmjs.com/package/ytdl-core/
 
 # implementation in Project heartbeat
-https://github.com/bryanvolckaertschool/Projectheartbeat
+https://github.com/bryanvolckaertschool/Projectheartbeats
 
 youtube-audio-server can be used for a variety of applications but we use it to create an on demand mp3 stream of the requested youtube ID.
 We store our song ID's in our database as explained in the README in the main repo.
